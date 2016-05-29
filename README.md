@@ -12,12 +12,17 @@
 
 **TL;DR**
 
+Сколько человек участвует в голосованиях:
 ![people](https://github.com/Amarchuk/newochem-research/blob/master/people.png "people")
 
+Какие сайты наиболее популярны в сообществе (показано общее число проголосовавших и число статей):
 ![sites](https://github.com/Amarchuk/newochem-research/blob/master/sites.png "sites")
 
+Какой из 5 вариантов сколько раз выигрывал:
 ![answers](https://github.com/Amarchuk/newochem-research/blob/master/answers.png "answers")
 
+Слова с наибольшей оценкой участников сообщества:
 ![wc](https://github.com/Amarchuk/newochem-research/blob/master/wc.png "wc")
 
+Косвенное подтверждение гипотезы - рапределение значимых слов по вариантам ответа:
 ![wc_proof](https://github.com/Amarchuk/newochem-research/blob/master/words_proof.png "wc_proof")
